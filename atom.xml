@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haha5217.github.io/</id>
     <title>haha5217</title>
-    <updated>2019-08-22T06:35:23.880Z</updated>
+    <updated>2019-08-22T09:05:13.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haha5217.github.io/"/>
     <link rel="self" href="https://haha5217.github.io//atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://haha5217.github.io//images/avatar.png</logo>
     <icon>https://haha5217.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, haha5217</rights>
+    <entry>
+        <title type="html"><![CDATA[减肥初步成功]]></title>
+        <id>https://haha5217.github.io//post/jian-fei-chu-bu-cheng-gong</id>
+        <link href="https://haha5217.github.io//post/jian-fei-chu-bu-cheng-gong">
+        </link>
+        <updated>2019-08-22T09:03:09.000Z</updated>
+        <content type="html"><![CDATA[<p>💪记录一下 下一步要健身成功 我要肌肉 ✊<br>
+<img src="https://haha5217.github.io//post-images/1566464631079.png" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://haha5217.github.io//post/hello-world</id>
